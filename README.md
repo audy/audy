@@ -1,6 +1,6 @@
 ### Howdy 🦠
 
-My name is Austin. Sometimes people call me Audy. I do research on the genomes
+Sometimes people call me Audy. I write software used to understand the genomes
 of microbes. He/Him.
 
 * [blog](http://agdr.org/blog)
