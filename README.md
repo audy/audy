@@ -3,7 +3,7 @@
 My name is Austin. I like bicycles, sardines, microbes and programming. My
 cat's name is Nancy. He/him.
 
-* [blog](https://agdr.org/blog)
+* [blog](http://agdr.org/blog)
 * [photography](https://foto.austinfanclub.com)
 * [twitter](https://twitter.com/heyaudy)
 * [~/.dotfiles](https://github.com/audy/dotflies)
