@@ -1,6 +1,7 @@
-### Hi there 👋
+### Howdy 🦠
 
-My name is Austin. Sometimes people call me Audy. He/Him.
+My name is Austin. Sometimes people call me Audy. I do research on the genomes
+of microbes. He/Him.
 
 * [blog](http://agdr.org/blog)
 * [photography](https://foto.austinfanclub.com)
